@@ -11,3 +11,4 @@ You don't need a computer science background to participate - just a little prog
 - PHP
 - Python
 - Golang
+- TypeScript
